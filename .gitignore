@@ -1,0 +1,28 @@
+# Données brutes (trop volumineuses)
+data/raw/*
+!data/raw/.gitkeep
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+dist/
+build/
+.vite/
+
+# Éditeurs / système
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
