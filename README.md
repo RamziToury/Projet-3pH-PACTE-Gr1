@@ -44,8 +44,8 @@ Voir [CONTRIBUTING.md](CONTRIBUTING.md) pour les branches, commits et pull reque
 
 ## Équipe
 
--Hiba El Khiyari
--Hajar Cherrouk
--Ramzi Toury
--Soubane Moussa Mohamed-Amin 
+- Hiba El Khiyari
+- Hajar Cherrouk
+- Ramzi Toury
+- Soubane Moussa Mohamed-Amin 
 
