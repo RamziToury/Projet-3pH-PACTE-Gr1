@@ -44,6 +44,8 @@ Voir [CONTRIBUTING.md](CONTRIBUTING.md) pour les branches, commits et pull reque
 
 ## Équipe
 
-- Ghazali
-- À compléter
-- À compléter
+-Hiba El Khiyari
+-Hajar Cherrouk
+-Ramzi Toury
+-Soubane Moussa Mohamed-Amin 
+
